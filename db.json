@@ -20,4 +20,11 @@
   "data": {
   "message": "The email address or the password you inputted is incorrect.”
   }
+},
+{
+  "status": true,
+  "data": {
+  "token": "your access token is here",
+  }
 }
+
