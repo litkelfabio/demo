@@ -5,11 +5,9 @@
       "name": "Test",
       "email": "litkelfabio@gmail.com"
     }
-  ]
- },
+  ],
    "user": {
     "username": "bmtest@biomarking.com", "password": "1qw21qw2"
-  }
   },
   "Message":[
    {"status": false, 
@@ -22,6 +20,7 @@
     }
   ]
 }
+
 
 
 
