@@ -6,6 +6,21 @@
       "email": "litkelfabio@gmail.com"
     }
   ]
+ },
+   "user": {
+    "username": "bmtest@biomarking.com", "password": "1qw21qw2"
+  }
+  },
+  "Message":[
+   {"status": false, 
+    "data":{"message": "The email address or the password you inputted is incorrect"}
+   },
+   {"status": true, 
+    "data": {
+    "token": "your access token is here"
+      } 
+    }
+  ]
 }
 
 
