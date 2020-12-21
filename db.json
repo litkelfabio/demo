@@ -1,27 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-   "user": {
-    "username": "bmtest@biomarking.com", "password": "1qw21qw2"
-  },
-  "Message":[
-   {"status": false, 
-    "data":{"message": "The email address or the password you inputted is incorrect"}
-   },
-   {"status": true, 
-    "data": {
-    "token": "your access token is here"
-      } 
+  "profile": [
+    {
+      "id": 1,
+      "name": "Kellys",
+      "email": "litkelfabio@gmail.com"
     }
   ]
 }
